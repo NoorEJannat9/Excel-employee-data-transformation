@@ -10,8 +10,8 @@ This project focuses on cleaning and analyzing a large-scale employee dataset to
 5. **Performance Rating:** Calculated the average employee rating.
 
 ## Files
-- `Class 4- Assessment Dataset.xlsx`: The original raw data.
-- `Class 4- Assessment Noor E Jannat.xlsx`: The final cleaned and analyzed project.
+- `Task Daatset.xlsx`: The original raw data.
+- `Task Completion.xlsx`: The final cleaned and analyzed project.
 
 ## Tech Used
 - Microsoft Excel (Formulas, Data Cleaning, Formatting)
